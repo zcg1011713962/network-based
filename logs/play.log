@@ -1,0 +1,50 @@
+使用默认端口:80
+Using SLF4J as the default logging framework
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+Platform: Windows
+-Dio.netty.noUnsafe: false
+Java version: 8
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: available
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+java.nio.DirectByteBuffer.<init>(long, int): available
+sun.misc.Unsafe: available
+-Dio.netty.tmpdir: C:\Users\ASUS~1\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+-Dio.netty.noPreferDirect: false
+-Dio.netty.maxDirectMemory: 1883242496 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+org.jctools-core.MpscChunkedArrayQueue: available
+Client_NioEventLoopGroup:16
+-Dio.netty.processId: 23384 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 00:50:56:ff:fe:c0:00:08 (auto-detected)
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+-Dio.netty.leakDetection.level: simple
+-Dio.netty.leakDetection.targetRecords: 4
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 11
+-Dio.netty.allocator.chunkSize: 16777216
+-Dio.netty.allocator.tinyCacheSize: 512
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.useCacheForAllThreads: true
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.buffer.bytebuf.checkAccessible: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@20fa4e09

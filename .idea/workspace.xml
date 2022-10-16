@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="028baf0e-ba59-487d-948b-d05aa2a8b5bc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\java\maven\repositorys" />
+        <option name="mavenHome" value="D:/java/maven/apache-maven-3.6.1-bin/apache-maven-3.6.1" />
+        <option name="printErrorStackTraces" value="true" />
+        <option name="userSettingsFile" value="D:\java\maven\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\spt\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="29A1jJO5UyBSEcrkAkZ4OR6s3XZ" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.transmit.netty.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\coding\transmit\src\main\resources" />
+      <recent name="D:\coding\transmit\src\main\java\com\transmit\netty\rtsp\client\entry" />
+      <recent name="D:\coding\transmit\src\main\java\com\transmit" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.HttpTest.connect">
+    <configuration name="HttpTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="network-based" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="http.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="http.client" />
+      <option name="MAIN_CLASS_NAME" value="http.client.HttpTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpTest.connect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="network-based" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="http.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="http.client" />
+      <option name="MAIN_CLASS_NAME" value="http.client.HttpTest" />
+      <option name="METHOD_NAME" value="connect" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="network-based" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="network-based" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HttpTest.connect" />
+        <item itemvalue="JUnit.HttpTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="028baf0e-ba59-487d-948b-d05aa2a8b5bc" name="Default Changelist" comment="" />
+      <created>1652541210030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652541210030</updated>
+      <workItem from="1652541213658" duration="33543000" />
+      <workItem from="1652633559501" duration="2465000" />
+      <workItem from="1653107123189" duration="31000" />
+      <workItem from="1653477130823" duration="1226000" />
+      <workItem from="1665895913442" duration="540000" />
+      <workItem from="1665896559112" duration="9398000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="170" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1665900004656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="170" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1665900004656" />
+    <state x="574" y="105" key="#com.intellij.ide.util.MemberChooser" timestamp="1665905448282">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="105" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1665905448282" />
+    <state width="418" height="466" key="DebuggerActiveHint" timestamp="1665904426790">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="418" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1665904426790" />
+    <state width="1493" height="241" key="GridCell.Tab.0.bottom" timestamp="1665904884130">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="241" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1665904884130" />
+    <state width="1493" height="241" key="GridCell.Tab.0.center" timestamp="1665904884130">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="241" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1665904884130" />
+    <state width="1493" height="241" key="GridCell.Tab.0.left" timestamp="1665904884130">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="241" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1665904884130" />
+    <state width="1493" height="241" key="GridCell.Tab.0.right" timestamp="1665904884130">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="241" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1665904884130" />
+    <state width="1493" height="173" key="GridCell.Tab.1.bottom" timestamp="1665904710066">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="173" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1665904710066" />
+    <state width="1493" height="173" key="GridCell.Tab.1.center" timestamp="1665904710066">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="173" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1665904710066" />
+    <state width="1493" height="173" key="GridCell.Tab.1.left" timestamp="1665904710066">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="173" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1665904710066" />
+    <state width="1493" height="173" key="GridCell.Tab.1.right" timestamp="1665904710066">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="173" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1665904710066" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/transmit/netty/http/client/handler/HttpResponseHandler.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

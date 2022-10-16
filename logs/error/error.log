@@ -1,0 +1,5 @@
+2022-05-15 16:38:41.306 [nioEventLoopGroup-2-1] ERROR HeartBeatHandler.userEventTriggered[32] 通道91dde799触发超时事件 
+2022-05-15 16:49:36.027 [nioEventLoopGroup-2-1] ERROR HttpResponseHandler.lambda$channelInactive$2[49] 通道[id: 0xe3a49fd5, L:0.0.0.0/0.0.0.0:56718 ! R:www.baidu.com/14.215.177.39:80]找不到连接 
+2022-05-15 17:41:01.940 [nioEventLoopGroup-2-1] ERROR HttpResponseHandler.lambda$channelInactive$4[76] 通道[id: 0x11fa62e2, L:0.0.0.0/0.0.0.0:63842 ! R:www.baidu.com/14.215.177.39:80]找不到连接 
+2022-05-15 18:33:23.719 [nioEventLoopGroup-2-1] ERROR HttpResponseHandler.lambda$channelInactive$2[61] 通道[id: 0x64952887, L:0.0.0.0/0.0.0.0:54598 ! R:www.baidu.com/14.215.177.39:80]找不到连接 
+2022-05-15 18:36:40.488 [nioEventLoopGroup-2-1] ERROR HttpResponseHandler.lambda$channelInactive$2[61] 通道[id: 0xdc193965, L:0.0.0.0/0.0.0.0:55009 ! R:www.baidu.com/14.215.177.39:80]找不到连接 
